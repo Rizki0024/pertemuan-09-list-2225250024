@@ -55,9 +55,9 @@ List memungkinkan banyak nilai disimpan dalam satu variabel dan diolah menggunak
 **Kesimpulan:**  
 List memudahkan pengolahan kumpulan data numerik. Pengujian dengan data normal, nilai batas, dan list kosong membantu memastikan program berjalan sesuai kebutuhan.
 
-## 10. Sumber Referensi
+## 6. Sumber Referensi
 
 1. Modul Pertemuan 09 — List/Array dan Pengolahan Data Numerik Sederhana. Materi perkuliahan yang menjadi acuan pengerjaan latihan, praktik analisis nilai mahasiswa, dan kuis formatif.
-2. OpenAI. (2026). ChatGPT [Alat bantu kecerdasan buatan]. https://chatgpt.com/
+2. OpenAI. (2026). ChatGPT [Alat bantu kecerdasan buatan]. https://chatgpt.com/.
 
 Bantuan AI digunakan untuk membantu memahami materi dan menyusun contoh solusi. Kode, pengujian, dan penjelasan akhir akan diperiksa kembali agar dapat dipahami dan dipertanggungjawabkan.
